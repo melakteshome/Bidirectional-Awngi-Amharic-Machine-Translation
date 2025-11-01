@@ -54,3 +54,20 @@ Training: 90%
 Testing: 10%
 
 Note: The dataset is available upon reasonable request from the authors.
+
+@article{teshome2025awngi_amharic_mt,
+  title={Bidirectional Awngi--Amharic Machine Translation: A Deep Learning Approach},
+  author={Teshome, Melak and Ayinie, Zewdu and Abate, Habtamu},
+  year={2025},
+  institution={Wollo University},
+  note={Manuscript submitted to Natural Language Engineering}
+}
+
+📫 Contact
+
+For questions or collaboration, please contact:
+Melak Teshome
+Department of Information Technology, Wollo University
+📧 melak.teshome@wu.edu.et
+or    melemelak@gmail.com
+]
