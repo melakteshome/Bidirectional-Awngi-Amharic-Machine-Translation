@@ -54,7 +54,7 @@ Training: 90%
 Testing: 10%
 
 Note: The dataset is available upon reasonable request from the authors.
-
+pgsql
 @article{teshome2025awngi_amharic_mt,
   title={Bidirectional Awngi--Amharic Machine Translation: A Deep Learning Approach},
   author={Teshome, Melak and Ayinie, Zewdu and Abate, Habtamu},
@@ -62,6 +62,7 @@ Note: The dataset is available upon reasonable request from the authors.
   institution={Wollo University},
   note={Manuscript submitted to Natural Language Engineering}
 }
+
 
 📫 Contact
 
