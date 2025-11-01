@@ -71,4 +71,9 @@ Melak Teshome
 Department of Information Technology, Wollo University
 📧 melak.teshome@wu.edu.et
 or    melemelak@gmail.com
-]
+
+---
+
+Would you like me to **fill this README template with your exact file names and folder structure** ?  
+If so, you can just tell me what folders/files you already have (for example: `aw.txt`, `am.txt`, `train.py`, etc.), and I’ll personalize it for you.
+
